@@ -62,7 +62,8 @@ OSX.
 - Setup RDP connection to DC
 - Setup Active Directory on DC
 - Created OU and Forest in AD
--<b>Configure GPO policies and inheratance in AD</b>
+- Configure GPO policies and inheratance in AD
+  
 
 - Installed and created ESXi in VMware Workstation
 - Insalled Fortigate Firewall 100
