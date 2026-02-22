@@ -53,7 +53,25 @@ OSX.
 - Technical Support: Desktops, Laptops, Mobile Devices, servers
 - Other Tools: Microsoft Office suite, Google Workspace
 
+<h2> Technical Projects:</h2>
 
+- Installed and setup Windows 2022 Server on Oracle Virtualbox 
+- Setup Server as Domain Controller
+- Configure DHCP and DNS of Domain Controller 
+- Setup security on DC
+- Setup RDP connection to DC
+- Setup Active Directory on DC
+- Created OU and Forest in AD
+- Configure GPO policies and inheratance in AD
+
+- Installed and created ESXi in VMware Workstation
+- Insalled Fortigate Firewall 100
+- Configure interfaces routes and policies
+- Setup S2S VPN and C2S tunnels
+- Monitor logs and packet flow
+
+
+<h2> 🤳 Connect with me:</h2>
 
 [twitter]: https://x.com/LongnanonRyan
 [facebook]: https://www.facebook.com/joseph.longnanon
