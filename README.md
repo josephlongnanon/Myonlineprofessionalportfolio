@@ -65,15 +65,16 @@ OSX.
 - Configure GPO policies and inheratance in AD
 
 - Installed and created ESXi in VMware Workstation
-- Insalled Fortigate Firewall 100F
-- Configure admin and user access
+- Insalled Fortigate Firewall 100F on ESXI instance
+- Configure admin and standard user access
 - Setup MFA for users and groups
 - Configure interfaces routes and policies
-- Setup S2S VPN and C2S tunnels
+- Configure policies in terms of business needs
+- Setup S2S VPN and C2S VPN tunnels
 - Configure load balancing for bandwith allocation
 - Setup Anti Virus/Malware IPS/IDS and Endpoint Protection
 - Monitor logs and packet flows
-- Monitor logs and uses pcap for packet analysis\
+- Monitor logs and uses pcap for packet analysis
   
 
 
