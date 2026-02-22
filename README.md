@@ -48,8 +48,7 @@ Norton RMM, Kaseya VSA.
 - VPN Configuration: IPSec, SSL VPN, S2S VPN
 - Operating Systems: Windows (XP/Vista/8/10/11/), Linux, Ubuntu, Kali Linux, Mac 
 OSX.
-- Server Operating Systems: Linux, Ubuntu, Centos, Windows Server 2012, 2016, 2019, 
-2022.
+- Server Operating Systems: Linux, Ubuntu, Centos, Windows Server 2012, 2016, 2019,2022.
 - Ticketing Systems: Zendesk, ConnectWise Manage, Jira, ServiceNow.
 - Technical Support: Desktops, Laptops, Mobile Devices, servers
 - Other Tools: Microsoft Office suite, Google Workspace
