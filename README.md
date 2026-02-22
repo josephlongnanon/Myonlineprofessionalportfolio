@@ -43,15 +43,15 @@ Blockpoint MDR.
 - Monitoring Tools and RMM: SolarWinds, Observium, LibreNMS, ConnectWise, 
 Norton RMM, Kaseya VSA.
 - Virtualization: VMware ESXi, Oracle VirtualBox.
-- Cloud Technologies: Azure Admin Microsoft 365 Admin, Exchange Admin and Security Cloud Backup
-- Backup Solutions: Veeam, Datto BCDR, Backup Storage, Carbonite Backup, OneDrive, Google Drive
-- VPN Configuration: IPSec, SSL VPN, S2S VPN
+- Cloud Technologies: Azure Admin Microsoft 365 Admin, Exchange Admin and Security Cloud Backup.
+- Backup Solutions: Veeam, Datto BCDR, Backup Storage, Carbonite Backup, OneDrive, Google Drive.
+- VPN Configuration: IPSec, SSL VPN, S2S VPN.
 - Operating Systems: Windows (XP/Vista/8/10/11/), Linux, Ubuntu, Kali Linux, Mac 
 OSX.
 - Server Operating Systems: Linux, Ubuntu, Centos, Windows Server 2012, 2016, 2019,2022.
 - Ticketing Systems: Zendesk, ConnectWise Manage, Jira, ServiceNow.
-- Technical Support: Desktops, Laptops, Mobile Devices, servers
-- Other Tools: Microsoft Office suite, Google Workspace
+- Technical Support: Desktops, Laptops, Mobile Devices, servers.
+- Other Tools: Microsoft Office suite, Google Workspace.
 
 <h2> Technical Projects:</h2>
 
@@ -62,14 +62,15 @@ OSX.
 - Setup RDP connection to DC
 - Setup Active Directory on DC
 - Created OU and Forest in AD
--  -<b>Configure GPO policies and inheratance in AD</b>
+- Configure GPO policies and inheratance in AD
   
 
 - Installed and created ESXi in VMware Workstation
 - Insalled Fortigate Firewall 100
 - Configure interfaces routes and policies
 - Setup S2S VPN and C2S tunnels
-- Monitor logs and packet flow
+- Monitor logs and packet flows
+- Monitor logs and uses pcap for packet analysis
 
 
 <h2> 🤳 Connect with me:</h2>
