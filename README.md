@@ -63,7 +63,6 @@ OSX.
 - Setup Active Directory on DC
 - Created OU and Forest in AD
 - Configure GPO policies and inheratance in AD
-
 - Installed and created ESXi in VMware Workstation
 - Insalled Fortigate Firewall 100F on ESXI instance
 - Configure admin and standard user access
