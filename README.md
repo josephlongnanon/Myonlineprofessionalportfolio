@@ -64,7 +64,6 @@ OSX.
 - Created OU and Forest in AD
 - Configure GPO policies and inheratance in AD
 <br />
-<br />
 - Installed and created ESXi in VMware Workstation
 - Insalled Fortigate Firewall 100
 - Configure interfaces routes and policies
